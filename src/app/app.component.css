@@ -1,0 +1,9 @@
+.btn{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: rgb(239, 141, 12);
+    text-align: center;
+}
